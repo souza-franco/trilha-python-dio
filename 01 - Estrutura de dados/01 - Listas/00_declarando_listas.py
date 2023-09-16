@@ -1,4 +1,4 @@
-frutas = ["laranja", "maca", "uva"]
+frutas = ["laranja", "maca", "uva"] # lista é colocada em colchetes em 99% dos casos
 print(frutas)
 
 frutas = []
